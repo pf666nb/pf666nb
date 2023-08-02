@@ -8,5 +8,6 @@
 <p align="center">
   <a href="https://github.com/pf666nb"><img src="https://github-readme-stats.vercel.app/api?username=pf666nb&hide_border=true&show_icons=true" alt="pf666nb's github stats"></a>
 </p>
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v3.0.0
+
+![暗色](https://raw.githubusercontent.com/pf666nb/pf666nb/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![亮色](https://raw.githubusercontent.com/pf666nb/pf666nb/output/github-contribution-grid-snake.svg#gh-light-mode-only)
