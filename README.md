@@ -21,8 +21,7 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pf666nb&theme=dark&layout=compact)
 
-<img src="https://github-readme-stats.vercel.app/api?username=pf666nb&hide_border=true&show_icons=true" alt="pf666nb's github stats"></a>
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=pf666nb&show_icons=true&theme=dark&count_private=true)
 </p>
 
 
