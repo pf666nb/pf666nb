@@ -17,9 +17,11 @@
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
 <h1 align="center">例外占多数者规则</h1>
+<p align="center">
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pf666nb&theme=dark&layout=compact)
 
+</p>
 
 <p align="center">
   <a href="https://github.com/pf666nb"><img src="https://github-readme-stats.vercel.app/api?username=pf666nb&hide_border=true&show_icons=true" alt="pf666nb's github stats"></a>
