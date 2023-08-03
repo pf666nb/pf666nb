@@ -18,6 +18,9 @@
 
 <h1 align="center">例外占多数者规则</h1>
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pf666nb&theme=dark&layout=compact)
+
+
 <p align="center">
   <a href="https://github.com/pf666nb"><img src="https://github-readme-stats.vercel.app/api?username=pf666nb&hide_border=true&show_icons=true" alt="pf666nb's github stats"></a>
 </p>
