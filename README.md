@@ -21,11 +21,12 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pf666nb&theme=dark&layout=compact)
 
+<img src="https://github-readme-stats.vercel.app/api?username=pf666nb&hide_border=true&show_icons=true" alt="pf666nb's github stats"></a>
+
 </p>
 
-<p align="center">
-  <a href="https://github.com/pf666nb"><img src="https://github-readme-stats.vercel.app/api?username=pf666nb&hide_border=true&show_icons=true" alt="pf666nb's github stats"></a>
-</p>
+
+
 
 ![暗色](https://raw.githubusercontent.com/pf666nb/pf666nb/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![亮色](https://raw.githubusercontent.com/pf666nb/pf666nb/output/github-contribution-grid-snake.svg#gh-light-mode-only)
